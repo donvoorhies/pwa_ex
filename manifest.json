@@ -14,77 +14,77 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "5a235040-8de1-40cc-778b-e15d78f50681.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/5a235040-8de1-40cc-778b-e15d78f50681.webPlatform.png",
             "sizes": "48x48",
             "type": "image/png"
         },
         {
-            "src": "78cb7efe-f20b-21b3-1baf-050f886a738e.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/78cb7efe-f20b-21b3-1baf-050f886a738e.webPlatform.png",
             "sizes": "1240x600",
             "type": "image/png"
         },
         {
-            "src": "d5c13eb0-b6cc-a152-39a2-7f38b9e64099.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/d5c13eb0-b6cc-a152-39a2-7f38b9e64099.webPlatform.png",
             "sizes": "300x300",
             "type": "image/png"
         },
         {
-            "src": "images/f4483b99-4a94-df91-de7a-f58510fccb90.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/images/f4483b99-4a94-df91-de7a-f58510fccb90.webPlatform.png",
             "sizes": "150x150",
             "type": "image/png"
         },
         {
-            "src": "59f4735a-952d-9e09-4172-d8ce51822e18.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/59f4735a-952d-9e09-4172-d8ce51822e18.webPlatform.png",
             "sizes": "88x88",
             "type": "image/png"
         },
         {
-            "src": "f6a76d1c-8077-da4a-24b5-17b6e5dca994.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/f6a76d1c-8077-da4a-24b5-17b6e5dca994.webPlatform.png",
             "sizes": "24x24",
             "type": "image/png"
         },
         {
-            "src": "303b8568-192a-43e1-75ae-0c5e6c40c03b.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/303b8568-192a-43e1-75ae-0c5e6c40c03b.webPlatform.png",
             "sizes": "50x50",
             "type": "image/png"
         },
         {
-            "src": "985a491b-d5b4-6c42-83fb-b6d4ac8064db.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/985a491b-d5b4-6c42-83fb-b6d4ac8064db.webPlatform.png",
             "sizes": "620x300",
             "type": "image/png"
         },
         {
-            "src": "cf83f789-6814-4e2e-94c5-7c5560dd0af3.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/cf83f789-6814-4e2e-94c5-7c5560dd0af3.webPlatform.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "2f586457-3640-22eb-1a8b-5bd4e9e446e3.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/2f586457-3640-22eb-1a8b-5bd4e9e446e3.webPlatform.png",
             "sizes": "144x144",
             "type": "image/png"
         },
         {
-            "src": "64af6164-4d08-ca4e-8c2c-b2bc0a977ec8.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/64af6164-4d08-ca4e-8c2c-b2bc0a977ec8.webPlatform.png",
             "sizes": "96x96",
             "type": "image/png"
         },
         {
-            "src": "6a591608-482b-c583-6c30-c8cbfcdda22b.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/6a591608-482b-c583-6c30-c8cbfcdda22b.webPlatform.png",
             "sizes": "72x72",
             "type": "image/png"
         },
         {
-            "src": "8f12e757-1be6-cfd6-3c4e-8e7bd2e17484.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/8f12e757-1be6-cfd6-3c4e-8e7bd2e17484.webPlatform.png",
             "sizes": "36x36",
             "type": "image/png"
         },
         {
-            "src": "70644e34-50fe-1325-1f8c-5566ce36d59a.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/70644e34-50fe-1325-1f8c-5566ce36d59a.webPlatform.png",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "db5596c1-5986-aba8-924b-271928152039.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/db5596c1-5986-aba8-924b-271928152039.webPlatform.png",
             "sizes": "180x180",
             "type": "image/png"
         },
@@ -94,12 +94,12 @@
             "type": "image/png"
         },
         {
-            "src": "2e117ceb-7471-65f9-d78a-9b5a29f718c9.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/2e117ceb-7471-65f9-d78a-9b5a29f718c9.webPlatform.png",
             "sizes": "120x120",
             "type": "image/png"
         },
         {
-            "src": "828c047b-86b9-6d37-4744-8ee29c88de58.webPlatform.png",
+            "src": "https://webgod.donvoorhies.dk/pwa_ex/images/828c047b-86b9-6d37-4744-8ee29c88de58.webPlatform.png",
             "sizes": "76x76",
             "type": "image/png"
         }
