@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="da-DK">
+<head>
+  
+<meta name="description" content="Dette er et eksempel på en primitiv progressiv web app (PWA)"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<link rel="manifest" href="manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="application-name" content="TestPWA">
+<meta name="apple-mobile-web-app-title" content="TestPWA">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="msapplication-navbutton-color" content="#FFFFFF">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="msapplication-starturl" content="https://webgod.voorhies.dk/pwa_ex">
+<title>Test PWA</title>
+<style>
+body{font:16px 'Open Sans', Arial,sans-serif,serif}
+h1{font-size:2em}
+h2{font-size:1.5em}
+h3{font-size:1.2em}
+</style>
+</head>
+
+<body>
+<main>
+<h1>Test PWA</h1>
+<section><h2>Sektion</h2>
+<h3>Artikel</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam massa lorem, tempor et lobortis sed, condimentum nec elit. In a molestie ante, quis venenatis risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi bibendum finibus est, eget suscipit dui malesuada vel. Suspendisse pulvinar dignissim dolor, eget dignissim est convallis eu. Duis tempus massa justo, in lobortis neque consectetur at. Pellentesque bibendum purus ipsum, ac semper urna malesuada eget. Suspendisse fringilla imperdiet feugiat. Etiam tincidunt gravida facilisis. Nulla fermentum velit sem, a molestie orci facilisis quis. In mauris diam, pellentesque ut ex et, semper porta lectus.</p>
+
+<p>Ut id efficitur ante, eget sagittis dolor. In facilisis, purus at aliquam blandit, lacus urna mollis justo, blandit pharetra mauris ex vel ex. Proin a diam nec diam luctus feugiat sed eget massa. Praesent consectetur, tortor sed ultricies vestibulum, diam ante finibus libero, eget sollicitudin risus felis sit amet augue. Vivamus laoreet ultricies metus, id imperdiet eros ullamcorper ac. Fusce mollis lectus a cursus finibus. Maecenas a tristique urna, sit amet vehicula dui. Phasellus aliquam lorem a vehicula sagittis.</p>
+
+<p>Maecenas vel ipsum urna. Aenean sapien mauris, ultrices non nisi a, hendrerit faucibus neque. Phasellus sit amet ultrices ante. Aliquam ut molestie tortor. Nulla id mollis dui. Nulla placerat rhoncus nulla a commodo. Cras accumsan at ipsum nec hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur vitae sollicitudin purus.
+</p>
+<p>In eu diam nec metus porttitor dignissim. Etiam arcu sem, maximus ut sem dignissim, facilisis mattis ex. Morbi interdum velit eget bibendum cursus. Vivamus sit amet cursus ligula. Fusce semper tellus ut erat molestie finibus. Morbi iaculis orci eleifend sapien placerat, quis euismod nisl euismod. Ut bibendum urna finibus magna finibus, sit amet eleifend enim ornare. Aliquam iaculis ante imperdiet, luctus quam non, pretium elit. Nulla aliquet rhoncus nibh, non rutrum lectus vestibulum quis. Proin sit amet mollis ante.</p>
+
+<p>Nam quis viverra urna. Etiam dictum, elit ut varius volutpat, leo dolor hendrerit tortor, ut hendrerit ipsum diam et odio. Suspendisse eu nunc non nibh facilisis dictum. Sed tempus orci ligula, eget ultricies ante tempor at. Nullam sed scelerisque nibh. Fusce eu bibendum eros, at molestie lectus. Integer dignissim nisl eget condimentum vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>
+</section>
+</main>
+</body>
+<script src="./pwabuilder-sw-register.js"></script>
+<!--<script src="upup.min.js"></script>
+  <script>
+    UpUp.start({
+      'content-url': 'offline.html' // show this page to offline users
+    });
+  </script>-->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/webfont/1.6.27/webfontloader.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Open+Sans:400,700']
+    }
+  });
+</script>
+</html>
