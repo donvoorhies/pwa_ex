@@ -4,7 +4,7 @@
     "name": "Test PWA",
     "scope": "/pwa_ex",
     "display": "standalone",
-    "start_url": "https://donvoorhies.github.io/pwa_ex/",
+    "start_url": "https://donvoorhies.github.io/pwa_ex",
     "short_name": "TestPWA",
     "theme_color": "#FFFFFF",
     "description": "Dette er en test PWA",
